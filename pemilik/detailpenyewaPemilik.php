@@ -1,5 +1,6 @@
 <?php
-require 'sidebar3.php';
+require 'sidebar.php';
+require 'bootstrap.html';
 ?>
 
 <!DOCTYPE html>
