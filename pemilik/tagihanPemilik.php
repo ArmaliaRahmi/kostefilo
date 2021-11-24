@@ -15,7 +15,6 @@ require 'sidebar3.php';
                         <div class="table-responsive">
                         <table class="table table-bordered">
                             <thead class="text-center">
-
                             <tr>
                                 <th rowspan="2" style="vertical-align : middle;text-align:center;">Kmr</th>
                                 <th rowspan="2" style="vertical-align : middle;text-align:center;">Nama</th>
@@ -24,21 +23,43 @@ require 'sidebar3.php';
                                 <th rowspan="2" style="vertical-align : middle;text-align:center;"><i style='font-size:24px' class='fas'>&#xf531;</i></th>
                             </tr>
                             <tr>
-                            <th class="text-center">Jan</th>
+                            <th class="text-center" style="background: #5C8E9E;">Jan</th>
                             <th class="text-center">Feb</th>
-                            <th class="text-center">Mar</th>
+                            <th class="text-center"style="background: #5C8E9E;">Mar</th>
                             <th class="text-center">Apr</th>
-                            <th class="text-center">Mei</th>
+                            <th class="text-center"style="background: #5C8E9E;">Mei</th>
                             <th class="text-center">Jun</th>
-                            <th class="text-center">Jul</th>
+                            <th class="text-center"style="background: #5C8E9E;">Jul</th>
                             <th class="text-center">Agu</th>
-                            <th class="text-center">sep</th>
+                            <th class="text-center"style="background: #5C8E9E;">sep</th>
                             <th class="text-center">Okt</th>
-                            <th class="text-center">Nov</th>
+                            <th class="text-center"style="background: #5C8E9E;">Nov</th>
                             <th class="text-center">Des</th>
                             </tr>
+                            
+                            
                             </thead>
                             <tbody class="text-center">
+                                <style>
+                                    table td:nth-child(4) {
+                                    background: #5C8E9E;
+                                    }
+                                    table td:nth-child(6) {
+                                    background: #5C8E9E;
+                                    }
+                                    table td:nth-child(8) {
+                                    background: #5C8E9E;
+                                    }
+                                    table td:nth-child(10) {
+                                    background: #5C8E9E;
+                                    }
+                                    table td:nth-child(12) {
+                                    background: #5C8E9E;
+                                    }
+                                    table td:nth-child(14) {
+                                    background: #5C8E9E;
+                                    }
+                                </style>
                                 <tr>
                                     <td class="text-left number">1</td>
                                     <td class="text-left"><span>Colombia</span> </td>
@@ -150,14 +171,15 @@ require 'sidebar3.php';
                             </tbody>
                         </table>
                         <style>
-                            table {
-                            border-collapse: collapse;
+                            table.table-bordered {
+                            border: 2px solid red;
                             border-radius: 30px;
                             overflow: hidden;
                             }
                             table.table-bordered > thead > tr > th{
                             border:2px solid black;
                             }
+
                             table.table-bordered > tbody > tr > td{
                                 border:2px solid black;
                             }
