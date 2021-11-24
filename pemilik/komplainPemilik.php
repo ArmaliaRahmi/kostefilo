@@ -21,7 +21,7 @@ require 'bootstrap.html';
 
         <div class="card" style=" border-top: 0; border-left: 0; border-right: 0; border-bottom: 3px solid grey;">
           <div class="card-body">
-            <h5 class="card-title" style="color:#5C8E9E">Selasa 10 September 2021</h5>
+            <h5 class="card-title" style="color:#5C8E9E">Kamis 8 Agustus 2021</h5>
             <p class="card-text">Pak saya samalem liat si anu bawa cewe kekamar, setau saya si anu gak punya sodara cewe, tapi nggak tau juga pak, coba tanyain.</p>
           </div>
           <img src="komplain.svg" alt="komplain" style="width:280; height:180;">  
@@ -29,7 +29,7 @@ require 'bootstrap.html';
 
         <div class="card" style=" border-top: 0; border-left: 0; border-right: 0; border-bottom: 3px solid grey;">
           <div class="card-body">
-            <h5 class="card-title" style="color:#5C8E9E">Selasa 10 September 2021</h5>
+            <h5 class="card-title" style="color:#5C8E9E">Rabu 8 April 2021</h5>
             <p class="card-text">Pak semalem jam 11 an di ruang kumpul berisik banget, kayaknya si anu bawa temen-temennya kesini tapi gadir ngobrol mulu ampe jam 1 an. Tolong dibilangin pak ato gak kasih peraturan di ruang kumpul</p>
           </div>
         </div>
