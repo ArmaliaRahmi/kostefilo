@@ -1,7 +1,7 @@
 <?php
-require 'sidebar3.php';
+require 'sidebar.php';
+require 'bootstrap.html';
 ?>
-
 <div class="content-container">
     <div class="container-fluid">
         <section class="ftco-section">
