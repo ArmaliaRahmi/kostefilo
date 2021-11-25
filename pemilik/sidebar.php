@@ -1,3 +1,6 @@
+<?php require 'bootstrap.html'
+?>
+
 <div class="sidebar-container">
     <div class= "sidebar-header" style="margin-top: 40">
       <div class="profile_pic" style="margin-left: 20; float:left;">
