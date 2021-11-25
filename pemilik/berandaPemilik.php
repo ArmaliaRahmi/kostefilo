@@ -21,64 +21,64 @@ require 'bootstrap.html';
                     <div class="card-group">
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "font-size: 12px;"><b>06</b></h5>
-                                <p class="card-text"style= "font-size: 10px;">A</p>
+                                <h6 class="card-title">06</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">07</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">07</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">08</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">08</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">09</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">09</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;"></h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;"></p>
+                                <h6 class="card-title"></h6>
+                                <span class="card-text"></span>
                             </div>  
                         </div> 
                     </div>
                         <div class="card-group">
                             <div class="card border-5">
                                 <div class="card-body" style="background-color: #5C8E9E;">
-                                    <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">01</h5>
-                                    <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                    <h6 class="card-title">01</h6>
+                                    <span class="card-text">A</span>
                                 </div>  
                             </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">02</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">02</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">03</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">03</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">04</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">04</h6>
+                                <span class="card-text">A</span>
                             </div> 
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">05</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">05</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div>
                     </div>
@@ -93,64 +93,64 @@ require 'bootstrap.html';
                     <div class="card-group">
                         <div class="card">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "font-size: 12px;"><b>120</b></h5>
-                                <p class="card-text"style= "font-size: 10px;">A</p>
+                                <h6 class="card-title">120</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div>
                         <div class="card border-05">
                             <div class="card-body"style="background-color: #DE3B3B;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">121</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">121</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">122</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">122</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">123</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">123</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">124</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">124</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div> 
                     </div>
                         <div class="card-group">
                             <div class="card border-5">
                                 <div class="card-body" style="background-color: #5C8E9E;">
-                                    <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">110</h5>
-                                    <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                    <h6 class="card-title">110</h6>
+                                    <span class="card-text">A</span>
                                 </div>  
                             </div>
                         <div class="card border-05">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">111</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">111</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">112</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">112</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">113</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">113</h6>
+                                <span class="card-text">A</span>
                             </div> 
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">114</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">114</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div>
                     </div>
@@ -159,64 +159,64 @@ require 'bootstrap.html';
                     <div class="card-group">
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "font-size: 12px;"><b>125</b></h5>
-                                <p class="card-text"style= "font-size: 10px;">B</p>
+                                <h6 class="card-title">125</h6>
+                                <span class="card-text">B</span>
                             </div>  
                         </div>
                         <div class="card border-05">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">126</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">126</h6>
+                                <span class="card-text">B</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">127</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">127</h6>
+                                <span class="card-text">B</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">128</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">128</h6>
+                                <span class="card-text">B</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">129</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">129</h6>
+                                <span class="card-text">B</span>
                             </div>  
                         </div> 
                     </div>
                         <div class="card-group">
                             <div class="card border-5">
                                 <div class="card-body">
-                                    <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">115</h5>
-                                    <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                    <h6 class="card-title">115</h6>
+                                    <span class="card-text">B</span>
                                 </div>  
                             </div>
                         <div class="card border-05">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">116</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">116</h6>
+                                <span class="card-text">B</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">117</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">117</h6>
+                                <span class="card-text">B</span>
                             </div>  
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">118</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">C</p>
+                                <h6 class="card-title">118</h6>
+                                <span class="card-text">C</span>
                             </div> 
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #DE3B3B;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">119</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">C</p>
+                                <h6 class="card-title">119</h6>
+                                <span class="card-text">C</span>
                             </div>  
                         </div>
                     </div>
@@ -236,64 +236,64 @@ require 'bootstrap.html';
                     <div class="card-group">
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "font-size: 12px;"><b>220</b></h5>
-                                <p class="card-text"style= "font-size: 10px;">A</p>
+                                <h6 class="card-title">220</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div>
                         <div class="card border-05">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">221</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">221</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">222</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">222</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">223</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">223</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">224</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">224</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div> 
                     </div>
                         <div class="card-group">
                             <div class="card border-5">
                                 <div class="card-body" style="background-color: #5C8E9E;">
-                                    <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">210</h5>
-                                    <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                    <h6 class="card-title">210</h6>
+                                    <span class="card-text">A</span>
                                 </div>  
                             </div>
                         <div class="card border-05">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">211</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">211</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">212</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">212</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">213</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">213</h6>
+                                <span class="card-text">A</span>
                             </div> 
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #DE3B3B;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">214</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">214</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div>
                     </div>
@@ -302,64 +302,64 @@ require 'bootstrap.html';
                     <div class="card-group">
                         <div class="card border-5" style="background-color: #5C8E9E;">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "font-size: 12px;"><b>225</b></h5>
-                                <p class="card-text"style= "font-size: 10px;">A</p>
+                                <h6 class="card-title">225</h6>
+                                <span class="card-text">A</span>
                             </div>  
                         </div>
                         <div class="card border-05">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">226</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
+                                <h6 class="card-title">226</h6>
+                                <span class="card-text">A</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">227</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">227</h6>
+                                <span class="card-text">B</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">228</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">228</h6>
+                                <span class="card-text">B</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">229</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">C</p>
+                                <h6 class="card-title">229</h6>
+                                <span class="card-text">C</span>
                             </div>  
                         </div> 
                     </div>
                         <div class="card-group">
                             <div class="card border-5">
                                 <div class="card-body">
-                                    <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">205</h5>
-                                    <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                    <h6 class="card-title">215</h6>
+                                    <span class="card-text">B</span>
                                 </div>  
                             </div>
                         <div class="card border-05">
-                            <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">206</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                            <div class="card-body" style="background-color: #5C8E9E;">
+                                <h6 class="card-title">216</h6>
+                                <span class="card-text">B</span>
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">207</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                            <div class="card-body" style="background-color: #5C8E9E;">
+                                <h6 class="card-title">217</h6>
+                                <span class="card-text">B</span>
                             </div>  
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">208</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">218</h6>
+                                <span class="card-text">B</span>
                             </div> 
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">209</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">C</p>
+                            <div class="card-body" style="background-color: #5C8E9E;">
+                                <h6 class="card-title">219</h6>
+                                <span class="card-text">C</span>
                             </div>  
                         </div>
                     </div>
@@ -367,65 +367,65 @@ require 'bootstrap.html';
                 <div class="card text-center mt-2 mb-2" style="width:350px;">
                     <div class="card-group">
                         <div class="card border-5">
-                            <div class="card-body" style="background-color: #5C8E9E;">
-                                <h5 class="card-title" style= "font-size: 12px;"><b>200</b></h5>
-                                <p class="card-text"style= "font-size: 10px;">B</p>
+                            <div class="card-body">
+                                <h6 class="card-title">205</h6>
+                                <span class="card-text">B</span>
                             </div>  
                         </div>
-                        <div class="card border-05">
+                        <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">206</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">206</h6>
+                                <span class="card-text">B</span>
+                            </div>   
+                        </div>
+                        <div class="card border-5">
+                            <div class="card-body" style="background-color: #5C8E9E;">
+                                <h6 class="card-title">207</h6>
+                                <span class="card-text">B</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">207</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">208</h6>
+                                <span class="card-text">B</span>
                             </div>   
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">208</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
-                            </div>   
-                        </div>
-                        <div class="card border-5">
-                            <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">209</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">C</p>
+                                <h6 class="card-title">209</h6>
+                                <span class="card-text">C</span>
                             </div>  
                         </div> 
                     </div>
                         <div class="card-group">
                             <div class="card border-5">
                                 <div class="card-body">
-                                    <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">200</h5>
-                                    <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                    <h6 class="card-title">200</h6>
+                                    <span class="card-text">B</span>
                                 </div>  
                             </div>
-                        <div class="card border-05">
-                            <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">201</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                        <div class="card border-5">
+                            <div class="card-body" style="background-color: #5C8E9E;">
+                                <h6 class="card-title">201</h6>
+                                <span class="card-text">B</span>
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">202</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                            <div class="card-body" style="background-color: #5C8E9E;">
+                                <h6 class="card-title">202</h6>
+                                <span class="card-text">B</span>
                             </div>  
                         </div>
-                        <div class="card border-5">
+                        <div class="card border-5" style="background-color: #5C8E9E;">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">203</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
+                                <h6 class="card-title">203</h6>
+                                <span class="card-text">B</span>
                             </div> 
                         </div>
                         <div class="card border-5">
                             <div class="card-body">
-                                <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">204</h5>
-                                <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">C</p>
+                                <h6 class="card-title">204</h6>
+                                <span class="card-text">C</span>
                             </div>  
                         </div>
                     </div>
