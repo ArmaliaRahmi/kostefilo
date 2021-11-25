@@ -25,14 +25,14 @@ require 'bootstrap.html';
                                 <p class="card-text"style= "font-size: 10px;">A</p>
                             </div>  
                         </div>
-                        <div class="card border-05">
-                            <div class="card-body">
+                        <div class="card border-5">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">07</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">08</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>   
@@ -52,13 +52,13 @@ require 'bootstrap.html';
                     </div>
                         <div class="card-group">
                             <div class="card border-5">
-                                <div class="card-body">
+                                <div class="card-body" style="background-color: #5C8E9E;">
                                     <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">01</h5>
                                     <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                                 </div>  
                             </div>
-                        <div class="card border-05">
-                            <div class="card-body">
+                        <div class="card border-5">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">02</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>   
@@ -70,7 +70,7 @@ require 'bootstrap.html';
                             </div>  
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">04</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div> 
@@ -98,13 +98,13 @@ require 'bootstrap.html';
                             </div>  
                         </div>
                         <div class="card border-05">
-                            <div class="card-body">
+                            <div class="card-body"style="background-color: #DE3B3B;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">121</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">122</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>   
@@ -116,7 +116,7 @@ require 'bootstrap.html';
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">124</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>  
@@ -124,31 +124,31 @@ require 'bootstrap.html';
                     </div>
                         <div class="card-group">
                             <div class="card border-5">
-                                <div class="card-body">
+                                <div class="card-body" style="background-color: #5C8E9E;">
                                     <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">110</h5>
                                     <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                                 </div>  
                             </div>
                         <div class="card border-05">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">111</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">112</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>  
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">113</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div> 
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">114</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>  
@@ -164,13 +164,13 @@ require 'bootstrap.html';
                             </div>  
                         </div>
                         <div class="card border-05">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">126</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">127</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
                             </div>   
@@ -196,13 +196,13 @@ require 'bootstrap.html';
                                 </div>  
                             </div>
                         <div class="card border-05">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">116</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">117</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
                             </div>  
@@ -214,7 +214,7 @@ require 'bootstrap.html';
                             </div> 
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #DE3B3B;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">119</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">C</p>
                             </div>  
@@ -235,7 +235,7 @@ require 'bootstrap.html';
                 <div class="card text-center mt-2 mb-2" style="width:350px;">
                     <div class="card-group">
                         <div class="card border-5">
-                            <div class="card-body" style="background-color: #5C8E9E;">
+                            <div class="card-body">
                                 <h5 class="card-title" style= "font-size: 12px;"><b>220</b></h5>
                                 <p class="card-text"style= "font-size: 10px;">A</p>
                             </div>  
@@ -247,7 +247,7 @@ require 'bootstrap.html';
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">222</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>   
@@ -259,7 +259,7 @@ require 'bootstrap.html';
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">224</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>  
@@ -267,13 +267,13 @@ require 'bootstrap.html';
                     </div>
                         <div class="card-group">
                             <div class="card border-5">
-                                <div class="card-body">
+                                <div class="card-body" style="background-color: #5C8E9E;">
                                     <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">210</h5>
                                     <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                                 </div>  
                             </div>
                         <div class="card border-05">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">211</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>   
@@ -285,13 +285,13 @@ require 'bootstrap.html';
                             </div>  
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">213</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div> 
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #DE3B3B;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">214</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">A</p>
                             </div>  
@@ -300,7 +300,7 @@ require 'bootstrap.html';
                 </div>
                 <div class="card text-center mt-2 mb-2" style="width:350px;">
                     <div class="card-group">
-                        <div class="card border-5">
+                        <div class="card border-5" style="background-color: #5C8E9E;">
                             <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "font-size: 12px;"><b>225</b></h5>
                                 <p class="card-text"style= "font-size: 10px;">A</p>
@@ -313,7 +313,7 @@ require 'bootstrap.html';
                             </div>   
                         </div>
                         <div class="card border-5">
-                            <div class="card-body">
+                            <div class="card-body" style="background-color: #5C8E9E;">
                                 <h5 class="card-title" style= "color:#5C8E9E; font-size: 10px;">227</h5>
                                 <p class="card-text"style= "color:#5C8E9E; font-size: 10px;">B</p>
                             </div>   
