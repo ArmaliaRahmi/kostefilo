@@ -42,8 +42,8 @@ require 'bootstrap.html';
                             </thead>
                             <tbody class="text-center">
                                 <tr>
-                                    <td>1</td>
-                                    <td>Colombia</td>
+                                    <td>01</td>
+                                    <td>Akis</td>
                                     <td></td>
                                     <td class = "middle"><label><input type="checkbox" name="checkbox"/>
                                         <div class="pay box"><span>PAY</span></div></label>
@@ -83,8 +83,8 @@ require 'bootstrap.html';
                                     <td></td>
                                 </tr>
                                 <tr>
-                                    <td>1</td>
-                                    <td>Colombia</td>
+                                    <td>02</td>
+                                    <td>Ito</td>
                                     <td></td>
                                     <td class = "middle"><label><input type="checkbox" name="checkbox"/>
                                         <div class="pay box"><span>PAY</span></div></label>
@@ -124,8 +124,8 @@ require 'bootstrap.html';
                                     <td></td>
                                 </tr>
                                 <tr>
-                                    <td>1</td>
-                                    <td>Colombia</td>
+                                    <td>03</td>
+                                    <td>Riyan</td>
                                     <td></td>
                                     <td class = "middle"><label><input type="checkbox" name="checkbox"/>
                                         <div class="pay box"><span>PAY</span></div></label>
@@ -165,8 +165,8 @@ require 'bootstrap.html';
                                     <td></td>
                                 </tr>
                                 <tr>
-                                    <td>1</td>
-                                    <td>Colombia</td>
+                                    <td>04</td>
+                                    <td>Zumar</td>
                                     <td></td>
                                     <td class = "middle"><label><input type="checkbox" name="checkbox"/>
                                         <div class="pay box"><span>PAY</span></div></label>
@@ -206,8 +206,8 @@ require 'bootstrap.html';
                                     <td></td>
                                 </tr>
                                 <tr>
-                                    <td>1</td>
-                                    <td>Colombia</td>
+                                    <td>05</td>
+                                    <td>Putra</td>
                                     <td></td>
                                     <td class = "middle"><label><input type="checkbox" name="checkbox"/>
                                         <div class="pay box"><span>PAY</span></div></label>
